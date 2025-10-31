@@ -1,4 +1,5 @@
 # https://codeforces.com/problemset/problem/2/B
+# use numpy int32 for less memory usage
 
 def factor(p,a): # find the power of p in factorization of a
     if a==0:
