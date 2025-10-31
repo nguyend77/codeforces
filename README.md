@@ -8,5 +8,6 @@ In the table below, for each problem, you will find the link to the problem's st
 | :---: | :---: | :---: | :---: | :---: | :---: |
 | [`1A`](https://codeforces.com/problemset/problem/1/A) | Theatre Square | 1000 | [✅](solutions/1_A.py) | 62 ms | 100 KB |
 | [`1B`](https://codeforces.com/problemset/problem/1/B) | Spreadsheet | 1600 | [✅](solutions/1_B.py) | 1530 ms | 100 KB |
-| [`1C`](https://codeforces.com/problemset/problem/1/C) | Spreadsheet | 2100 | ❌ | N/A | N/A |
+| [`1C`](https://codeforces.com/problemset/problem/1/C) | Ancient Berland Circus | 2100 | ❌ | N/A | N/A |
 | [`2A`](https://codeforces.com/problemset/problem/2/A) | Winner | 1500 | [✅](solutions/2_A.py) | 124 ms | 100 KB |
+| [`2B`](https://codeforces.com/problemset/problem/2/B) | Winner | 1500 | [✅](solutions/2_B.py) | 718 ms | 30200 KB |
