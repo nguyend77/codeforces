@@ -3,7 +3,7 @@ As I am preparing for my first ever attempt at the International Collegiate Prog
 ## About ICPC 🌐
 [ICPC](https://icpc.global/) is the oldest, largest, and most prestigious programming contest for college students all over the world. Elmhurst University is sending our first ever team to compete at the 2025 North America Mid-Central Regional Qualification Round.
 ## Problems and Solutions ⚙️
-In the table below, for each problem, you will find the link to the problem's statement, my solution, and its time, memory complexity.
+In the table below, for each problem, you will find the link to the problem's statement, my solution, and its time, memory complexity. Solutions are run using PyPy 3.10 (7.3.15, 64bit).
 | __Problem__ | __Name__ | __Difficulty__ | __Solution__ | __Time__ | __Memory__ |
 | :---: | :---: | :---: | :---: | :---: | :---: |
 | [`1A`](https://codeforces.com/problemset/problem/1/A) | Theatre Square | 1000 | [✅](solutions/1_A.py) | 62 ms | 100 KB |
