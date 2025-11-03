@@ -15,3 +15,4 @@ In the table below, for each problem, you will find the link to the problem's st
 | [`3A`](https://codeforces.com/problemset/problem/3/A) | Shortest path of the king | 1000 | [✅](solutions/3_A.py) | 154 ms | 0 KB |
 | [`3B`](https://codeforces.com/problemset/problem/3/B) | Lorry | 1900 | [✅](solutions/3_B.py) | 748 ms | 16800 KB |
 | [`3A`](https://codeforces.com/problemset/problem/3/C) | Tic-tac-toe | 1800 | [✅](solutions/3_C.py) | 218 ms | 0 KB |
+| [`3D`](https://codeforces.com/problemset/problem/3/D) | Least Cost Bracket Sequence | 2600 | [✅](solutions/3_D.py) | 592 ms | 9524 KB |
