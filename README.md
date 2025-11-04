@@ -18,3 +18,4 @@ In the table below, for each problem, you will find the link to the problem's st
 | [`3D`](https://codeforces.com/problemset/problem/3/D) | Least Cost Bracket Sequence | 2600 | [✅](solutions/3D.py) | 592 ms | 9524 KB |
 | [`4A`](https://codeforces.com/problemset/problem/4/A) | Watermelon | 800 | [✅](solutions/4A.py) | 154 ms | 0 KB |
 | [`4B`](https://codeforces.com/problemset/problem/4/B) | Before an Exam | 1200 | [✅](solutions/4B.py) | 77 ms | 0 KB |
+| [`4C`](https://codeforces.com/problemset/problem/4/C) | Registration System | 1300 | [✅](solutions/4C.py) | 968 ms | 8600 KB |
