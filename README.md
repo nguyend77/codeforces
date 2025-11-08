@@ -20,5 +20,6 @@ In the table below, for each problem, you will find the link to the problem's st
 | [`4B`](https://codeforces.com/problemset/problem/4/B) | Before an Exam | 1200 | [✅](solutions/4B.py) | 77 ms | 0 KB |
 | [`4C`](https://codeforces.com/problemset/problem/4/C) | Registration System | 1300 | [✅](solutions/4C.py) | 968 ms | 8600 KB |
 | [`4D`](https://codeforces.com/problemset/problem/4/D) | Mysterious Present | 1700 | ❌ | N/A | N/A |
-| [`5A`](https://codeforces.com/problemset/problem/5/A) | Watermelon | 1000 | [✅](solutions/5A.py) | 186 ms | 0 KB |
-| [`5B`](https://codeforces.com/problemset/problem/5/B) | Before an Exam | 1200 | [✅](solutions/5B.py) | 248 ms | 2200 KB |
+| [`5A`](https://codeforces.com/problemset/problem/5/A) | Chat Servers Outgoing Traffic | 1000 | [✅](solutions/5A.py) | 186 ms | 0 KB |
+| [`5B`](https://codeforces.com/problemset/problem/5/B) | Center Alignment | 1200 | [✅](solutions/5B.py) | 248 ms | 2200 KB |
+| [`5C`](https://codeforces.com/problemset/problem/5/C) | Longest Regular Bracket Sequence | 1900 | [✅](solutions/5C.py) | 310 ms | 21200 KB |
