@@ -19,3 +19,6 @@ In the table below, for each problem, you will find the link to the problem's st
 | [`4A`](https://codeforces.com/problemset/problem/4/A) | Watermelon | 800 | [✅](solutions/4A.py) | 154 ms | 0 KB |
 | [`4B`](https://codeforces.com/problemset/problem/4/B) | Before an Exam | 1200 | [✅](solutions/4B.py) | 77 ms | 0 KB |
 | [`4C`](https://codeforces.com/problemset/problem/4/C) | Registration System | 1300 | [✅](solutions/4C.py) | 968 ms | 8600 KB |
+| [`4D`](https://codeforces.com/problemset/problem/4/D) | Mysterious Present | 1700 | ❌ | N/A | N/A |
+| [`5A`](https://codeforces.com/problemset/problem/5/A) | Watermelon | 1000 | [✅](solutions/5A.py) | 186 ms | 0 KB |
+| [`5B`](https://codeforces.com/problemset/problem/5/B) | Before an Exam | 1200 | [✅](solutions/5B.py) | 248 ms | 2200 KB |
